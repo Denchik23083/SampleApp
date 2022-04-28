@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SampleApi.Logic
+﻿namespace SampleApi.Logic
 {
     public class Class1
     {

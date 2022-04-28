@@ -1,6 +1,5 @@
 ﻿using EsSample.Orders.Database.Entities;
 using System;
-using System.ComponentModel.DataAnnotations;
 
 namespace EsSample.Orders.Database
 {

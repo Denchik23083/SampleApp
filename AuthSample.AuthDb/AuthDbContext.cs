@@ -1,5 +1,4 @@
-﻿using System;
-using AuthSample.AuthDb.Entities;
+﻿using AuthSample.AuthDb.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace AuthSample.AuthDb

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using SampleMvc.Data.Entity;
+﻿using SampleMvc.Data.Entity;
 
 namespace SampleMvc.Web.Models
 {

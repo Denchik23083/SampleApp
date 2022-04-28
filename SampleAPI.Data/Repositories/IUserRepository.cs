@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 using SampleAPI.Data.Entities;
 
 namespace SampleAPI.Data.Repositories

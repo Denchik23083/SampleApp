@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DataRequestSample
+﻿namespace DataRequestSample
 {
     public abstract class BaseEntity
     {

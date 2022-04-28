@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using Library.Data;
 using Library.Data.Entity;
 using Library.Data.Repository;
-using Microsoft.EntityFrameworkCore;
 
 namespace Library.Presentation
 {

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SampleAPI.Data.Entities
+﻿namespace SampleAPI.Data.Entities
 {
     public class User
     {

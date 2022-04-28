@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace EsSample.Core
+﻿namespace EsSample.Core
 {
     public enum EventType
     {

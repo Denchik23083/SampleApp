@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SampleMvc.Data.Entity
+﻿namespace SampleMvc.Data.Entity
 {
     public enum Genre
     {

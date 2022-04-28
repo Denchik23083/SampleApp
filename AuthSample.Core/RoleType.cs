@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AuthSample.Core
+﻿namespace AuthSample.Core
 {
     public enum RoleType
     {

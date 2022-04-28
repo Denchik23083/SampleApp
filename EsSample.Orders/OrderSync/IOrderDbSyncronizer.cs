@@ -1,8 +1,4 @@
-﻿using EsSample.Orders.Database;
-using EventStore.ClientAPI;
-using EventStore.ClientAPI.SystemData;
-
-namespace EsSample.Orders.OrderSync
+﻿namespace EsSample.Orders.OrderSync
 {
     public interface IOrderDbSyncronizer
     {

@@ -1,13 +1,8 @@
 ﻿using System;
-using System.IO;
-using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using EsSample.Core;
 using EventStore.ClientAPI;
-using EventStore.ClientAPI.Common.Log;
-using EventStore.ClientAPI.Projections;
-using EventStore.ClientAPI.SystemData;
 
 namespace EsSample
 {

@@ -1,13 +1,7 @@
 ﻿using System;
-
-using System.Collections;
 using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
 using System.Text;
 using System.Threading;
-using Collections;
-using SampleApp.Logic;
 
 namespace SampleApp
 {
@@ -19,7 +13,7 @@ namespace SampleApp
 
             var difference = DateTime.Now - DateTime.Today;
             Console.WriteLine(difference);
-            
+
             Console.WriteLine(DateTime.Now);
             Thread.Sleep(TimeSpan.FromMinutes(5));
             Console.WriteLine(DateTime.Now);

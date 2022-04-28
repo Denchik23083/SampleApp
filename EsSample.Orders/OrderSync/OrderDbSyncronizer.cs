@@ -4,10 +4,8 @@ using EventStore.ClientAPI;
 using EventStore.ClientAPI.SystemData;
 using Microsoft.EntityFrameworkCore;
 using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace EsSample.Orders.OrderSync
 {

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Linq;
-using System.Runtime.InteropServices.ComTypes;
-using Library.Data.Entity;
-using Library.Data.EntityConfiguration;
+﻿using Library.Data.Entity;
 using Microsoft.EntityFrameworkCore;
 
 namespace Library.Data
